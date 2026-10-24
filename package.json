@@ -1,7 +1,7 @@
 {
   "name": "dsh-zh-thinking",
   "version": "0.1.2",
-  "description": "DSH host plugin: force the agent's chain-of-thought / reasoning / planning / tool-invocation deliberation to stay in Simplified Chinese — 让 Agent 的内部思考（思维链）始终使用简体中文。",
+  "description": "Local DSH host plugin: request-scoped Chinese language preference for D:\\PythonProject\\memPaper only, with explicit user-language exceptions.",
   "type": "module",
   "main": "lib/index.js",
   "exports": {
